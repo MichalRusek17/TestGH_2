@@ -10,7 +10,13 @@ int Odejmowanie(int a, int b)
 {
     return a - b;
 }
+
 int Mnozenie(int a, int b)
 {
     return a * b;
+}
+
+int Dzielenie(int a, int b)
+{
+    return a / b;
 }
