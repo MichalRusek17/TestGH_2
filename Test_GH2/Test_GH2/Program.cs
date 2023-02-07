@@ -20,3 +20,8 @@ int Dzielenie(int a, int b)
 {
     return a / b;
 }
+
+int Potegowanie(int a, int b)
+{
+    return a ^ b;
+}
